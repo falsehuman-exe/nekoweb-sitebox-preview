@@ -1,6 +1,6 @@
 // CONFIGURATION
 
-const username = "dimden";
+const username = "falsehuman";
 
 // THE MAGIC SAUCE
 // (be careful when touching)
